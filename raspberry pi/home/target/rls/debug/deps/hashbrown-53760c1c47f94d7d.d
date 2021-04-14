@@ -1,0 +1,13 @@
+/home/faiz/all courses/python/raspberry-pi/home/target/rls/debug/deps/hashbrown-53760c1c47f94d7d.rmeta: /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/lib.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/macros.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/raw/mod.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/raw/bitmask.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/external_trait_impls/mod.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/map.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/scopeguard.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/set.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/raw/sse2.rs
+
+/home/faiz/all courses/python/raspberry-pi/home/target/rls/debug/deps/hashbrown-53760c1c47f94d7d.d: /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/lib.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/macros.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/raw/mod.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/raw/bitmask.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/external_trait_impls/mod.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/map.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/scopeguard.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/set.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/raw/sse2.rs
+
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/lib.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/macros.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/raw/mod.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/raw/bitmask.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/external_trait_impls/mod.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/map.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/scopeguard.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/set.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/hashbrown-0.9.1/src/raw/sse2.rs:

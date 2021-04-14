@@ -1,0 +1,13 @@
+/home/faiz/all courses/python/raspberry-pi/home/target/rls/debug/deps/pear-9a5677b267aaf31b.rmeta: /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs
+
+/home/faiz/all courses/python/raspberry-pi/home/target/rls/debug/deps/libpear-9a5677b267aaf31b.rlib: /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs
+
+/home/faiz/all courses/python/raspberry-pi/home/target/rls/debug/deps/pear-9a5677b267aaf31b.d: /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs
+
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/lib.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/macros.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/input.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/result.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/debug.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/combinators.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/pear-0.1.4/src/parsers.rs:
