@@ -1,0 +1,12 @@
+/home/faiz/all courses/python/raspberry-pi/home/target/debug/deps/notify-92d8a92e3ae87cd9.rmeta: /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/inotify.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/home/faiz/all courses/python/raspberry-pi/home/target/debug/deps/libnotify-92d8a92e3ae87cd9.rlib: /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/inotify.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/home/faiz/all courses/python/raspberry-pi/home/target/debug/deps/notify-92d8a92e3ae87cd9.d: /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/inotify.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs /home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs
+
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/lib.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/inotify.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/null.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/poll.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/mod.rs:
+/home/faiz/.cargo/registry/src/github.com-1ecc6299db9ec823/notify-4.0.15/src/debounce/timer.rs:

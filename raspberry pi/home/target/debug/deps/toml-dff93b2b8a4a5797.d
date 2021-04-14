@@ -1,0 +1,14 @@
+/home/pi/raspberry-pi/home/target/debug/deps/toml-dff93b2b8a4a5797.rmeta: /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/lib.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/value.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/datetime.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/ser.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/de.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/tokens.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/macros.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/spanned.rs
+
+/home/pi/raspberry-pi/home/target/debug/deps/libtoml-dff93b2b8a4a5797.rlib: /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/lib.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/value.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/datetime.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/ser.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/de.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/tokens.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/macros.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/spanned.rs
+
+/home/pi/raspberry-pi/home/target/debug/deps/toml-dff93b2b8a4a5797.d: /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/lib.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/value.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/datetime.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/ser.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/de.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/tokens.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/macros.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/spanned.rs
+
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/lib.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/value.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/datetime.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/ser.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/de.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/tokens.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/macros.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/toml-0.4.10/src/spanned.rs:

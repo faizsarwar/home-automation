@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/faiz/all courses/python/raspberry-pi/home/target/debug/build/typenum-68cd879d874a677b/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/faiz/all courses/python/raspberry-pi/home/target/debug/build/typenum-68cd879d874a677b/out/op.rs

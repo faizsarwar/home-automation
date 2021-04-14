@@ -1,0 +1,19 @@
+npm init -y
+dialog-fulfilment npm ki library add krni paraygi
+
+const {WebhookClient}=require("dialogflow-fulfillment");
+const { request, response } = require("express");
+
+server keliye
+
+npm i express
+npm i actions-on-google
+
+local server ko publically available krwanay keliye ngrok use huga
+
+phr "ngrok http <port number>" jis port pr server run hura hai khud connect krlega ye cammand jis folder mai ngrok install hai whn chalani hai
+
+app.post mai "/webhook" kay baad ,express.json()  bhi ayga uske baad arrow function ayga dialogflow console fulfillment mai bhi url mai /webhook lagana huga 
+
+
+sir nay hamain custom entity add krna bhi sikhaya tha is class mai. entities mai jakay custom select kru

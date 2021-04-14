@@ -1,0 +1,12 @@
+/home/pi/raspberry-pi/home/target/debug/deps/proc_macro2-efccb166aeb07668.rmeta: /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/lib.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/marker.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/parse.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/detection.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/fallback.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/wrapper.rs
+
+/home/pi/raspberry-pi/home/target/debug/deps/libproc_macro2-efccb166aeb07668.rlib: /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/lib.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/marker.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/parse.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/detection.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/fallback.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/wrapper.rs
+
+/home/pi/raspberry-pi/home/target/debug/deps/proc_macro2-efccb166aeb07668.d: /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/lib.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/marker.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/parse.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/detection.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/fallback.rs /home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/wrapper.rs
+
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/lib.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/marker.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/parse.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/detection.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/fallback.rs:
+/home/pi/.cargo/registry/src/github.com-1285ae84e5963aae/proc-macro2-1.0.24/src/wrapper.rs:
