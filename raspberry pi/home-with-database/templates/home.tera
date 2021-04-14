@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <style type="text/css">
+  html,body {
+    height:100%;
+}
+div.div1 {
+    height:100%;
+    width:100%;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+div.div2 {
+    width:100%;
+    position:relative;
+    top:100%;
+}
+
+    body {
+      background: #1a6875;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    .left-side {
+      max-width: 45%;
+      text-align: right;
+      position: absolute;
+      top: 15%;
+      left: 0;
+    }
+    .title {
+      color: #fff;
+      font-size: 5em;
+    }
+    .sub-title {
+      color: #fff;
+      font-size: 1.3em;
+    }
+    .right-side {
+      text-align: left;
+      position: absolute;
+      top: 15%;
+      right: 0;
+        }
+  </style>
+</head>
+<body>
+    
+
+
+<div class="div1">
+  
+  <div class="left-side">
+    <h1 class="title">This web app was built with RUST</h1>
+    <p class="sub-title">Hello FAIZ 😊</p>
+  </div>
+<div class="right-side">
+    <i class="large material-icons" style="width: 256px;height:256px;margin-top:10px;font-size: 23em;margin-right:180px;color:darkred;border-color:#fff;">flash_on</i>
+</div>
+</div> 
+
+
+
+{% for state in [state1,state2,state3,state4] %}
+  
+<div class="div2">
+  <div class="col">
+    <center>
+        <div class="col" class="subtittle" style="margin-bottom: 50px;">
+           <h2 style="color: aliceblue;">The {{state.1}} is currently <h1 style="color: aliceblue;">{{state.0}}</h1></h2>
+        </div>
+    </center>
+
+ <div class="container">
+  <div class="row">
+{% if state.0 == "ON" %}    
+    <div class="col" style="margin-bottom: 50px; margin-left:300px">
+        <a href="/ON/{{state.2}}">
+        <button type="button" class="btn btn-primary btn-lg" disabled>
+            <i class="material-icons">flash_on</i> ON</button>
+        </a>
+    </div>
+{% else %}
+    <div class="col" style="margin-bottom: 50px; margin-left:300px">
+        <a href="/ON/{{state.2}}">
+        <button type="button" class="btn btn-primary btn-lg" >
+            <i class="material-icons">flash_on</i> ON</button>
+        </a>
+    </div>
+{% endif %}
+
+
+
+    <div class="col" style="margin-bottom: 50px;">
+        <a href="/OFF/{{state.2}}"><button type="button" class="btn btn-secondary btn-lg">
+            <i class="material-icons">flash_off</i>OFF</button>
+            </a>
+    </div>
+  </div>
+</div>
+</div>
+
+{% endfor %}
+
+
+</div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+</body>

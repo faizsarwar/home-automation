@@ -1,0 +1,26 @@
+[package]
+name = "home"
+version = "0.1.0"
+authors = ["faizsarwar <faizsarwar44@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rocket = "0.4.7"
+serde = { version = "1.0", features = ["derive"] }
+rppal = "0.11.3"
+bson = "0.14.1"
+serde_json = "1.0"
+serde_derive = "^1.0" 
+rocket_cors = "^0.5.0" 
+
+
+[dependencies.rocket_contrib]
+version = "0.4.5"
+features = ["handlebars_templates", "tera_templates","json"]
+
+[dependencies.mongodb]
+version = "1.0.0"
+default-features = false
+features = ["sync"]
