@@ -1,0 +1,8 @@
+agr error aya us line ko node_modules ki us error wali file mai comment krna huga  
+
+esp mai kgrok ki tcp wali ip aur port dengay 
+
+broker mai mqtt server ki ip dengay( tcp ka url dengay aur port bhi uski dengy  tcp k url mai // say pehlay wala string hata dengay)
+
+
+two boards mai connection krna hu tu direct nhi krwatay (board say broker phr whn say dosray board pr bhejtay hain).
